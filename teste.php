@@ -5,5 +5,6 @@
 </head>
 <body>
 	<h1>teste</h1>
+	<p>Esqueci a senha</p>
 </body>
 </html>
